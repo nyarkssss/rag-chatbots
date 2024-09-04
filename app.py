@@ -37,7 +37,7 @@ chain = ConversationalRetrievalChain.from_llm(llm=llm,chain_type="stuff",retriev
 
 
 # create streamlit app
-st.title("HealthCare ChatBot")
+st.title("Mental Health ChatBot")
 
 # "session_state_object: ", st.session_state
 
