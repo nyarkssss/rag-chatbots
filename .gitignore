@@ -1,0 +1,9 @@
+# Ignore model 
+/model
+/model/*.bin
+
+# Ignore Environment Folder 
+/env
+
+# ignore HuggingFace Token 
+*.env
